@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm new to the coding community and can't wait to learn more!!!
 <!--
 **ycho234/ycho234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
