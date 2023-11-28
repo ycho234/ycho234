@@ -10,6 +10,6 @@
 
 -🎨I enjoy painting in my free time, cooking, alongside digital designing!!
 
-- ⚡ Fun fact: I love animals!!! Especially cats which are my favourite 🐱🐱🐱 (as you may be able to tell from my profile). I also enjoy nature and outdoor activities 🍃🌷
+- ⚡ Fun fact: I love animals!!! Especially cats which are my favourite 🐱🐱🐱 (as you may be able to tell from my the gif at the top of my profile). I also enjoy nature and outdoor activities 🍃🌷
 
 
