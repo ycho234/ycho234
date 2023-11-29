@@ -29,4 +29,6 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img width="213" alt="image" src="https://github.com/ycho234/ycho234/assets/100493820/8363d8ee-50a3-43e8-92a7-16738dc977b8">
+
 </div>
