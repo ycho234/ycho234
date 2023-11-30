@@ -34,5 +34,5 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 </div>
 <h3>Contact Me</h3>
 <div>
-<a>email: href="yusracho123@gmail.com"</p>
+<a>email: href="yusracho123@gmail.com"</a>
 </div>
