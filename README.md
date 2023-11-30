@@ -36,5 +36,5 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <div>
 GitHub profile: https://github.com/ycho234 <br>
 LinkedIn: www.linkedin.com/in/yusra-aina-c-b91b9a265 <br>
-<a href="www.linkedin.com/in/yusra-aina-c-b91b9a265"> <img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/yusra-aina-c-b91b9a265"> <img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
