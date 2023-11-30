@@ -33,8 +33,12 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://github.com/ycho234/ycho234/assets/100493820/98dd9e57-20e6-4d04-8a3c-8969ea96b380" height="29" width="90"/>
 </div>
 <h3>Contact Me</h3>
+<h4>Click on the icons below</h4>
 <div>
-<a href="www.linkedin.com/in/yusra-aina-c-b91b9a265">
+<a href="https://www.linkedin.com/in/yusra-aina-c-b91b9a265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/ycho234">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
