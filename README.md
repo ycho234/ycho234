@@ -30,4 +30,6 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
+![Screenshot (1121)](https://github.com/ycho234/ycho234/assets/100493820/9fe08021-3f10-4cf1-a7db-43272d0b8c73)
+
 </div>
