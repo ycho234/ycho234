@@ -32,7 +32,7 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
 <img src="https://github.com/ycho234/ycho234/assets/100493820/98dd9e57-20e6-4d04-8a3c-8969ea96b380" height="29" width="90"/>
 </div>
-<h3>Contact Me</h3><p>Click on the icons below</p>
+<h3>Contact Me:</h3>
 <div>
 <a href="https://www.linkedin.com/in/yusra-aina-c-b91b9a265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
