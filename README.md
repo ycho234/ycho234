@@ -35,4 +35,6 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <h3>Contact Me</h3>
 <div>
 GitHub profile: https://github.com/ycho234
+LinkedIn: www.linkedin.com/in/yusra-aina-c-b91b9a265
+Email me: yusracho123@gmail.com
 </div>
