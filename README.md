@@ -42,7 +42,6 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <a href="https://github.com/ycho234">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-  ![ycho234's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ycho234&theme=tokyonight&hide_border=false)
 <a href="mailto:yusracho123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
