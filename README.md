@@ -46,3 +46,4 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ycho234)](https://git.io/streak-stats)
