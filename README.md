@@ -47,7 +47,7 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 </a>
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ycho234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ycho234&theme=dark&hide_border=false)<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ycho234&theme=dark&hide_border=false"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ycho234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
