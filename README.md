@@ -14,7 +14,7 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 
 
 <h2>My Tech Stack: </h2>
-<h3>FrontEnd and Design</h3>
+<h3> 💻 FrontEnd and Design</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +25,7 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
-<h3>BackEnd and Testing</h3>
+<h3> 🗄️ BackEnd and Testing</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -34,7 +34,7 @@ I'm based in the United Kingdom and am currently a bootcamper at the School Of C
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
 <img src="https://github.com/ycho234/ycho234/assets/100493820/98dd9e57-20e6-4d04-8a3c-8969ea96b380" height="29" width="90"/>
 </div>
-<h3>Contact Me:</h3>
+<h3> 📧 Contact Me:</h3>
 <div>
 <a href="https://www.linkedin.com/in/yusra-aina-c-b91b9a265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
