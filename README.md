@@ -4,6 +4,7 @@
 </p>
   </div>
   <iframe src="https://giphy.com/embed/gi84IkFRzwube" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-gi84IkFRzwube">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/9CffOPMLx0Hf2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animated-coffee-9CffOPMLx0Hf2">via GIPHY</a></p>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
 
 - 🌱 I’m currently learning react and next.js. I have been dabbling in these and have found that they both offer a range of advantages including: Component-Based Architecture, Virtual DOM, Server-Side Rendering and many more!
