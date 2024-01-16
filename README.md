@@ -3,6 +3,7 @@
   <img src="https://media3.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47mi6cwoya9tiqgq4v7tfk4ftwelm2iwsn9kidmwg7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Your GIF Description" width="300" height="300">
 </p>
   </div>
+  <iframe src="https://giphy.com/embed/gi84IkFRzwube" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-gi84IkFRzwube">via GIPHY</a></p>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
 
 - 🌱 I’m currently learning react and next.js. I have been dabbling in these and have found that they both offer a range of advantages including: Component-Based Architecture, Virtual DOM, Server-Side Rendering and many more!
