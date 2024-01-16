@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
   <img src="https://media3.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47mi6cwoya9tiqgq4v7tfk4ftwelm2iwsn9kidmwg7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Your GIF Description" width="300" height="300">
+
+  <img src="https://giphy.com/gifs/computer-gi84IkFRzwube"/>
 </p>
   </div>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
