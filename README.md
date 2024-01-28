@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
-   <img src="https://www.canva.com/design/DAF7NRWh8nM/view" width="700" height="300">
+   <img src="https://www.canva.com/design/DAF7NRWh8nM/view" width="700" height="300">![Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner (1)](https://github.com/ycho234/ycho234/assets/100493820/3e59b9bf-a879-4bc4-b33a-7c8a10007610)
+
 </p>
 
   </div>
