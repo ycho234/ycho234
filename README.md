@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
-   <img src="https://www.canva.com/design/DAF7NRWh8nM/nyR3AYhTWvMocKs1vlawoQ/view?utm_content=DAF7NRWh8nM&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="banner">
-</p>![Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner (2)](https://github.com/ycho234/ycho234/assets/100493820/4496f954-93e5-4d10-a8ff-c349ee798fef)
+   <img src="https://document-export.canva.com/Wh8nM/DAF7NRWh8nM/8/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240128T103832Z&X-Amz-Expires=47138&X-Amz-Signature=946cf18350c01a2cff724da991509e1ec2aea729b47ca200b3565f4f6a9c0ccb&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2028%20Jan%202024%2023%3A44%3A10%20GMT" alt="banner">
 
   </div>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
