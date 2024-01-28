@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
-   <img src="" alt="banner">
+   <img src="![image](https://github.com/ycho234/ycho234/assets/100493820/63e3f9c1-28d4-4cc7-9ad3-dd3593ef8bed)
+" alt="banner">
 </p>
   </div>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
