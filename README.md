@@ -1,9 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
-   <img src="![Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner (2)](https://github.com/ycho234/ycho234/assets/100493820/83e88e2c-a0db-4b74-94ee-20bfd1d7ec93)
-" alt="banner">
-   ![Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner (2)](https://github.com/ycho234/ycho234/assets/100493820/013d0fae-e11d-4c43-a423-be65ac930784)
-
+   <img src="" alt="banner">
 </p>
   </div>
 I'm based in the United Kingdom and am currently a bootcamper at the School Of Code. Here I have been diving into the world of tech and have been loving it.
