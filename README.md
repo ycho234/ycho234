@@ -1,7 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=810&lines=Hi+%F0%9F%91%8B+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
 <p align="center" >
-   <img src="https://www.canva.com/design/DAF7NRWh8nM/view" width="700" height="300">![Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner (1)](https://github.com/ycho234/ycho234/assets/100493820/3e59b9bf-a879-4bc4-b33a-7c8a10007610)
-
+   <img src="https://www.canva.com/design/DAF7NRWh8nM/view" width="700" height="300">
+<div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF7NRWh8nM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF7NRWh8nM&#x2F;view?utm_content=DAF7NRWh8nM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pastel Orange Pastel Green Pastel Yellow Tech  Retro Anime Discord Profile Banner</a> by Yusra
 </p>
 
   </div>
