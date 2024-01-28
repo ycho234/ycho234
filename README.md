@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&random=false&width=446&height=40&lines=Hi++%F0%9F%91%8B%2C+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&random=false&width=446&height=40&lines=Hi++%F0%9F%91%8B%2C+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer" alt="Typing SVG" /></a>
 <p align="center" >
    <img src="https://document-export.canva.com/Wh8nM/DAF7NRWh8nM/8/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240128T103832Z&X-Amz-Expires=47138&X-Amz-Signature=946cf18350c01a2cff724da991509e1ec2aea729b47ca200b3565f4f6a9c0ccb&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2028%20Jan%202024%2023%3A44%3A10%20GMT" alt="banner">
 </p>
