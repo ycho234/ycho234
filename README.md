@@ -1,6 +1,6 @@
 
 <p align="center" >
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9E9FF7&random=false&width=1000&lines=Hi++%F0%9F%91%8B+%2C+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer" alt="Typing SVG" /></a>
+   <a href="https://document-export.canva.com/Wh8nM/DAF7NRWh8nM/32/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240131T034156Z&X-Amz-Expires=34815&X-Amz-Signature=391d7f407b3cb0cba0ca5e0312da2f47b2b96a1ccd3809d3990b130982bfa80d&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2031%20Jan%202024%2013%3A22%3A11%20GMT" alt="Typing SVG" /></a>
    <img src="https://document-export.canva.com/Wh8nM/DAF7NRWh8nM/32/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20240129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240129T034156Z&X-Amz-Expires=52815&X-Amz-Signature=6dabffd9cf294f0d9b9d05e86cb0371e9b02f3d9a851466bc67b1525145cca39&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2029%20Jan%202024%2018%3A22%3A11%20GMT" alt="banner">
 </p>
   </div>
