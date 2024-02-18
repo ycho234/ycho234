@@ -1,7 +1,7 @@
 
 <p align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C59CE5&random=false&width=800&height=40&lines=Hi++%F0%9F%91%8B%2C+my+name+is+Yusra-Aina+and+I'm+a+Junior+Fullstack+Developer" alt="Typing SVG" /></a>
-<img src= "https://github.com/ycho234/ycho234/assets/100493820/b4d6956c-36d9-4cfd-a59e-64b38d96b13e" alt="banner" >
+<img src= "https://github.com/ycho234/ycho234/assets/100493820/b4d6956c-36d9-4cfd-a59e-64b38d96b13e" alt="banner" width="800"  >
 </p>
   </div>
   
