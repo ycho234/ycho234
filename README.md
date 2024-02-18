@@ -10,7 +10,7 @@
 
 <h2>About Me:</h2>
 
-🧠 I’m currently learning React and Next.js, and I'm absolutely loving it! These technologies offer a plethora of advantages such as Component-Based Architecture, Virtual DOM, Server-Side Rendering, and much more!
+🧠 I’m currently learning React and Next.js, and I'm absolutely loving it! These technologies offer a plethora of advantages such as Component-Based Architecture, Virtual DOM, Server-Side Rendering, and much more! Alongside this I am also working on TypeScript, this is a language I have started looking into more recently and am working on getting a hang of the syntax!
 
 🔭 I'm also working on my passion project called skynn, an app designed to help users learn more about skincare and address their skincare needs. I'm utilizing backend services like Firebase to bring this project to life.</br>
 
@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
