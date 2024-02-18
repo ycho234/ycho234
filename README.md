@@ -4,6 +4,7 @@
 <img src= "https://github.com/ycho234/ycho234/assets/100493820/b4d6956c-36d9-4cfd-a59e-64b38d96b13e" alt="banner" >
 </p>
   </div>
+  
 <h2>Welcome to My GitHub Profile! 🚀</h2>
 <p>Hey there!!! I'm Yusra-Aina, a Junior Software Developer based in the United Kingdom. I am a recent graduate from the School Of Code bootcamp, where I've been delving deep into the exciting world of tech and learning the fundamentals of Software Vevelopement.</p>
 <h2>About Me:</h2>
@@ -17,11 +18,6 @@
 ⚡ Fun fact: I'm a huge animal lover, especially cats 🐱🐱🐱! I also enjoy spending time in nature and participating in outdoor activities like hiking and gardening.
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat about tech, design, or cats! 🐾
-
-| Header 1       | Header 2       | Header 3       |
-| -------------- | -------------- | -------------- |
-| Row 1, Col 1   | Row 1, Col 2   | Row 1, Col 3   |
-| Row 2, Col 1   | Row 2, Col 2   | Row 2, Col 3   |
 
 <h2>My Tech Stack: </h2>
 <h3> 💻 FrontEnd and Design</h3>
