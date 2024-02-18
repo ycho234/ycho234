@@ -6,7 +6,7 @@
   </div>
   
 <h2>Welcome to My GitHub Profile! 🚀</h2>
-<p>Hey there!!! I'm Yusra-Aina, a Junior Software Developer based in the United Kingdom. I am a recent graduate from the School Of Code bootcamp, where I've been delving deep into the exciting world of tech and learning the fundamentals of Software Vevelopement.</p>
+<p>Hello! I am Yusra-Aina, a Junior Software Developer based in the United Kingdom. My journey into the realm of technology began when I joined School of Code, a 16 week intensive bootcamp where I demonstrated a commitment to continuous learning and embracing a growth mindset. Here, I immersed myself in the thrilling world of tech, understanding the fundamentals of Software Development. Since them I have graduated from the School Of Code bootcamp and am excited to start my career. Prior to this venture, my academic background was in Pharmacology, but upon discovering my interest in programming, I knew I had to seize the opportunity to pursue my passion.</p>
 
 <h2>About Me:</h2>
 
@@ -18,7 +18,32 @@
 
 ❤️ Fun fact: I'm a huge animal lover, especially cats 🐱🐱🐱! I also enjoy spending time in nature and participating in outdoor activities like hiking and gardening.
 
-💡 Feel free to explore my repositories and reach out if you have any questions or just want to chat about tech, design, or cats! 🐾
+💡 Feel free to explore my repositories and reach out if you have any questions or just want to chat about tech, design, or cats! 🐾 
+ 
+ I'm also working on my portfolio, <a href="https://portfolio-site-yc.vercel.app/">Here is the Link (STILL IN PROGRESS😂!!!)</a>
+
+<h2>My Projects 📁 </h2>
+<div align="center">
+<b>Click the image below to checkout the promo video for the final project I took part in at the School Of Code!!!</b>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=SyPIFCDmNHA&ab_channel=NesstProject"> <img width="500" alt="image" src="https://github.com/ycho234/ycho234/assets/100493820/144f84eb-3b99-4bb7-b0bd-6cccc12f153f"> </a>
+<br>
+<br>
+<p><b>Check out other projects I've taken part in:</b></p>
+
+| Project        | Tech Stack     | Github Repo    | Link
+| -------------- | -------------- | -------------- | --------------
+| My Portfolio   | JavaScript, Tailwind CSS, Next.js, Framer Motion | <a href="https://github.com/ycho234/PortfolioSite">Repo</a> | <a href="https://portfolio-site-yc.vercel.app/"> Demo (Portfolio still in progress!)</a>
+| Skynn          | Typescript, Tailwind CSS, Next.js, firebase |<a href="https://github.com/ycho234/Skynn"> Repo </a> | <a href="https://skynn.vercel.app/">Demo (App still in progress!)</a>
+| Nesst          | Typescript, Tailwind CSS, Next.js, Supabase, ShadCN UI, Jest, Cypress |<a href="https://github.com/tplatt92/nesst">Repo</a>   | <a href="https://nesst.vercel.app/">Demo</a>
+| Travel Blog    | JavaScript, CSS, Next.js | <a href="https://github.com/ycho234/TravelBlog-Nextjs-Practise">Repo</a> | <a href="https://travel-blog-nextjs-practise.vercel.app/">Demo</a>
+| SOCHub         | HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, Vitest, Playwright | <a href="https://github.com/ycho234/School-of-Code-Midterm-Project">Repo (front-end), </a><a href="https://github.com/ycho234/bc15-w8-project-back-end-elevensies">(back-end)</a> | <a href="https://projectfrontend-wp8f.onrender.com/">Demo</a>
+| Weather App    | HTML, CSS, JavaScript |<a href="https://github.com/ycho234/WeatherApp-API-fetch-DOM-manipulation-practise-">Repo</a> | <a href="https://65ba997b34a6760d88e2147c--delightful-praline-252927.netlify.app/">Demo</a> 
+
+
+</div>
+
 
 
 <h2>My Tech Stack: </h2>
