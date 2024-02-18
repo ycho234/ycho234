@@ -34,12 +34,12 @@
 
 | Project        | Tech Stack     | Github Repo    | Link
 | -------------- | -------------- | -------------- | --------------
+| Nesst          | Typescript, Tailwind CSS, Next.js, Supabase, ShadCN UI, Jest, Cypress |<a href="https://github.com/tplatt92/nesst">Repo</a>   | <a href="https://nesst.vercel.app/">Demo</a>
 | My Portfolio   | JavaScript, Tailwind CSS, Next.js, Framer Motion | <a href="https://github.com/ycho234/PortfolioSite">Repo</a> | <a href="https://portfolio-site-yc.vercel.app/"> Demo (Portfolio still in progress!)</a>
 | Skynn          | Typescript, Tailwind CSS, Next.js, firebase |<a href="https://github.com/ycho234/Skynn"> Repo </a> | <a href="https://skynn.vercel.app/">Demo (App still in progress!)</a>
-| Nesst          | Typescript, Tailwind CSS, Next.js, Supabase, ShadCN UI, Jest, Cypress |<a href="https://github.com/tplatt92/nesst">Repo</a>   | <a href="https://nesst.vercel.app/">Demo</a>
+| Weather App    | HTML, CSS, JavaScript |<a href="https://github.com/ycho234/WeatherApp-API-fetch-DOM-manipulation-practise-">Repo</a> | <a href="https://65ba997b34a6760d88e2147c--delightful-praline-252927.netlify.app/">Demo</a> 
 | Travel Blog    | JavaScript, CSS, Next.js | <a href="https://github.com/ycho234/TravelBlog-Nextjs-Practise">Repo</a> | <a href="https://travel-blog-nextjs-practise.vercel.app/">Demo</a>
 | SOCHub         | HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, Vitest, Playwright | <a href="https://github.com/ycho234/School-of-Code-Midterm-Project">Repo (front-end), </a><a href="https://github.com/ycho234/bc15-w8-project-back-end-elevensies">(back-end)</a> | <a href="https://projectfrontend-wp8f.onrender.com/">Demo</a>
-| Weather App    | HTML, CSS, JavaScript |<a href="https://github.com/ycho234/WeatherApp-API-fetch-DOM-manipulation-practise-">Repo</a> | <a href="https://65ba997b34a6760d88e2147c--delightful-praline-252927.netlify.app/">Demo</a> 
 
 
 </div>
