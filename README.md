@@ -5,7 +5,7 @@
   </div>
   
 <h2>Welcome to My GitHub Profile! 🚀</h2>
-<p>Hello! I am Yusra-Aina, an aspiring professional based in the United Kingdom. My journey into the realm of technology began when I joined School of Code, a 16 week intensive bootcamp where I demonstrated a commitment to continuous learning and embracing a growth mindset. Here, I immersed myself in the thrilling world of tech, understanding the fundamentals of Software Development. Since them I have graduated from the School Of Code bootcamp and am excited to start my career. Prior to this venture, my academic background was in Pharmacology, but upon discovering my interest in programming, I knew I had to seize the opportunity to pursue my passion.</p>
+<p>Hello! I am Yusra-Aina, an aspiring professional based in the United Kingdom. My journey into the realm of technology began when I joined School of Code, a 16 week intensive bootcamp where I demonstrated a commitment to continuous learning and embracing a growth mindset. Here, I immersed myself in the thrilling world of tech, understanding the fundamentals of Web Development. Since them I have graduated from the School Of Code bootcamp and am excited to start my career. Prior to this venture, my academic background was in Pharmacology, but upon discovering my interest in programming, I knew I had to seize the opportunity to pursue my passion.</p>
 
 <h2>About Me:</h2>
 
