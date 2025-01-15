@@ -19,7 +19,6 @@
 
 💡 Feel free to explore my repositories and reach out if you have any questions or just want to chat about tech, design, or cats! 🐾 
  
- I'm also working on my portfolio, <a href="https://portfolio-site-yc.vercel.app/">Here is the Link (STILL IN PROGRESS😂!!!)</a>
 
 <h2>My Projects 📁 </h2>
 <div align="center">
